@@ -42,7 +42,7 @@
 
 ## About
 
-A series of <strong>MATLAB</strong> functions for processing biomedical signals, more specifically for EEG (electroencephalography) and ESI (electromagnetic source imaging) analysis.
+A series of <strong>MATLAB</strong> functions for processing biomedical signals used and created by <a href="http://www.biolab.eletrica.ufu.br/">BioLab</a>, more specifically for EEG (electroencephalography) and ESI (electromagnetic source imaging) analysis.
 
 There are many functions implemented, from functions for finding signal onset, to functions for pattern recognition and mainly ESI calculation and analysis.
 
