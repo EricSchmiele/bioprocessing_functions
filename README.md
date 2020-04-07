@@ -6,16 +6,16 @@
   Bioprocessing Functions (for EEG and ESI calculations) - BioLab
 </h2>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/e7r7i7c/BIOPROCESSING_FUNCTIONS">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/e7r7i7c/bioprocessing_functions">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/e7r7i7c/BIOPROCESSING_FUNCTIONS">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/e7r7i7c/bioprocessing_functions">
   
-  <a href="https://github.com/e7r7i7c/BIOPROCESSING_FUNCTIONS/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/e7r7i7c/BIOPROCESSING_FUNCTIONS">
+  <a href="https://github.com/e7r7i7c/bioprocessing_functions/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/e7r7i7c/bioprocessing_functions">
   </a>
 
-  <a href="https://github.com/e7r7i7c/BIOPROCESSING_FUNCTIONS/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/e7r7i7c/BIOPROCESSING_FUNCTIONS">
+  <a href="https://github.com/e7r7i7c/bioprocessing_functions/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/e7r7i7c/bioprocessing_functions">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
@@ -36,7 +36,7 @@
 <br>
 
 <p align="center">
-  <img alt="ESIxEEG" src="assets/ESIxEEG.gif" width="50%">
+  <img alt="ESI x EEG" src="assets/ESIxEEG.gif" width="50%">
 </p>
 
 
@@ -99,7 +99,10 @@ To open it in any SO, use [Figma](https://figma.com).
 
 ## Contributing
 
-* Reference the official main publications: <a href="https://repositorio.ufu.br/bitstream/123456789/28620/4/EnhancingEEGSpacial.pdf">Schmiele2019</a> and <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182578">Ofner2017</a>
+* Reference the official main publication: <a href="https://repositorio.ufu.br/bitstream/123456789/28620/4/EnhancingEEGSpacial.pdf">Schmiele2019</a>
+
+And
+
 * Fork this repository;
 * Create a branch with your feature: `git checkout -b my-feature`;
 * Commit your changes: `git commit -m 'feat: My new feature: <description>'`;
