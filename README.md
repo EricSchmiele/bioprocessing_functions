@@ -69,7 +69,7 @@ Use the following command on your MATLAB console to be able to use every functio
 
 A list with all main functions can be seen by using the code `bioprocessing_functions();` in your MATLAB console. Additionally, the main information from every function can be accessed by using the standard MATLAB code: `help <function_name>`.
 
-In order to replicate the results from <a href="https://repositorio.ufu.br/bitstream/123456789/28620/4/EnhancingEEGSpacial.pdf">Schmiele2019</a>, simply run the code `organize_data_from_ewh()` in your MATLAB console.
+In order to replicate the results from <a href="https://repositorio.ufu.br/bitstream/123456789/28620/4/EnhancingEEGSpacial.pdf">Schmiele2019</a>, simply run the code `organize_data_from_ewh();` in your MATLAB console.
 
 <!--
 ## Testing
